@@ -1,7 +1,12 @@
 # Hello World, I'm Christian Urcuqui 
 
 ***
-<table>
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+    </colgroup>
+   <tbody>
    <tr>
      <td>
 As a security data scientist, hacker, researcher, and assistant professor, Christian Camilo Urcuqui López has been working on cybersecurity, data science, and e-health. He has worked for the software industry and his experiences include different projects from public and private institutions participating as a software engineer, researcher, director of IT, and nowadays as a data scientist. He is interested in malware (anomaly) detection, adversarial techniques, secure learning, privacy, threat hunting, responsible AI, and ethical hacking. He is the author of the book "Ciberseguridad: un enfoque desde la ciencia de datos", published by Editorial ICESI in 2018.
@@ -10,6 +15,7 @@ As a security data scientist, hacker, researcher, and assistant professor, Chris
        <img src="cat.png" width="100" height="132">
      </td>
   </tr>
+      </tbody>
 </table>
 ***
 
