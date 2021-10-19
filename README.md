@@ -6,7 +6,8 @@ As a security data scientist, hacker, researcher, and assistant professor, Chris
 
 <p align="left">
 <a href="https://www.linkedin.com/in/christianurcuqui/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
-
+  
+<a href="https://twitter.com/ulcamilo" rel="nofollow"><img src="/terrytangyuan/terrytangyuan/raw/master/imgs/twitter.svg" alt="Twitter" style="max-width: 100%;"></a>
 </p>
   
 ***
@@ -33,4 +34,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urcuqui&show_icons=true&theme=react&include_all_commits=true&layout=compact" alt="urcuqui" width="37%">
 </p>
 <br>
+
+
 
