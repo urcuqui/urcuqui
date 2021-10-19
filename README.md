@@ -20,14 +20,15 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/christianurcuqui/?locale=en_US"  rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp; 
+<a href="https://www.linkedin.com/in/christianurcuqui/?locale=en_US"  rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="left" alt="LinkedIn"/></a>
   
-<a href="https://twitter.com/ulcamilo" rel="nofollow"><img src="https://github.com/terrytangyuan/terrytangyuan/raw/master/imgs/twitter.svg" alt="Twitter" style="max-width: 100%;"></a>
+<a href="https://twitter.com/ulcamilo" rel="nofollow"><img src="https://github.com/terrytangyuan/terrytangyuan/raw/master/imgs/twitter.svg" align="left" alt="Twitter" style="max-width: 100%;"></a>
   
-<a href="https://scholar.google.es/citations?user=q6dRgYIAAAAJ&hl=us" rel="nofollow"><img src="https://github.com//terrytangyuan/terrytangyuan/raw/master/imgs/citations.svg" alt="Citations" style="max-width: 100%;"></a>
+<a href="https://scholar.google.es/citations?user=q6dRgYIAAAAJ&hl=us" rel="nofollow"><img align="left" src="https://github.com//terrytangyuan/terrytangyuan/raw/master/imgs/citations.svg" alt="Citations" style="max-width: 100%;"></a>
   
 </p>
----
+<br>
+<hr>
 
 <!--
 **urcuqui/urcuqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
