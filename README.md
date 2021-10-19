@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello World, I'm Christian Urcuqui 
+
+***
+As a security data scientist, hacker, researcher, and assistant professor, Christian Camilo Urcuqui López has been working on cybersecurity, data science, and e-health. He has worked for the software industry and his experiences include different projects from public and private institutions participating as a software engineer, researcher, director of IT, and nowadays as a data scientist. He is interested in malware (anomaly) detection, adversarial techniques, secure learning, privacy, threat hunting, responsible AI, and ethical hacking. He is the author of the book "Ciberseguridad: un enfoque desde la ciencia de datos", published by Editorial ICESI in 2018.
+***
 
 <!--
 **urcuqui/urcuqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :zap: Github Stats
+
+
+<p>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=urcuqui&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="urcuqui" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=urcuqui&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="urcuqui" width="37%">
+</p>
+<br>
+
