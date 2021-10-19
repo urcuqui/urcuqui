@@ -1,7 +1,7 @@
 # Hello World, I'm Christian Urcuqui 
 
 ***
-<table style="width: 100%">
+<table style="width: 100%" cellspacing="0" cellpadding="0">
    <colgroup>
        <col style="width: 50%;">
        <col style="width: 50%;">
@@ -10,8 +10,8 @@
          <td>
     As a security data scientist, hacker, researcher, and assistant professor, Christian Camilo Urcuqui López has been working on cybersecurity, data science, and e-health. He has worked for the software industry and his experiences include different projects from public and private institutions participating as a software engineer, researcher, director of IT, and nowadays as a data scientist. He is interested in malware (anomaly) detection, adversarial techniques, secure learning, privacy, threat hunting, responsible AI, and ethical hacking. He is the author of the book "Ciberseguridad: un enfoque desde la ciencia de datos", published by Editorial ICESI in 2018.
          </td>
-         <td>
-           <img src="cat.png" style="width:100%;height:100%;">
+         <td style="width: 80%;">
+           <img src=https://github.com/urcuqui/urcuqui/blob/main/cat.png?raw=true" width="1000" height="220" style="max-width: 500%;">
          </td>
   </tr>  
 </table>
