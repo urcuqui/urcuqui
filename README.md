@@ -6,6 +6,7 @@ As a security data scientist, hacker, researcher, and assistant professor, Chris
 
 <p align="center">
 <a href="https://www.linkedin.com/in/christianurcuqui/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  
 ***
 <!--
 **urcuqui/urcuqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
