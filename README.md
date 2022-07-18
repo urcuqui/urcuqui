@@ -13,7 +13,7 @@
    </colgroup>  
    <tr>
          <td>
-    As a security data scientist, hacker, researcher, and university lecturer, Christian Camilo Urcuqui López has been working in cybersecurity, data science, and e-health. He has worked for the software industry and his experiences include different projects from public and private institutions participating as a software engineer, researcher, director of IT, and nowadays as a data scientist. He is interested in malware detection, adversarial techniques, secure learning, privacy, threat hunting, responsible AI, and ethical hacking. He is the author of the book "Ciberseguridad: un enfoque desde la ciencia de datos", published by Editorial ICESI in 2018.
+  Cybersecurity data scientist with more than 9 years in the software industry, with several successful projects developed for public and private institutions. My passion is to create solutions to make cyberspace safer using data science; I am interested in threat detection, adversarial techniques, secure learning, responsible AI, and ethical hacking. I am the author of the books "Cybersecurity: An Approach Based on Data Science" and "Cybersecurity: Data Have the Answer" published by Editorial ICESI in 2018 and 2022 (coming soon), respectively, and multiple works in security, data science, and e-health.
          </td>
          <td style="width: 80%;">
            <img src=https://github.com/urcuqui/urcuqui/blob/main/cat.png?raw=true" width="1000" height="220" style="max-width: 500%;">
