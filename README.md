@@ -1,9 +1,9 @@
 # Hello World, I'm Christian Urcuqui 💻~(^_^~)
-<span style="display:block;text-align:center">
+<p align="center">
 
-<img id="mdt_13" src="https://bl6pap003files.storage.live.com/y4pP11jNe8iEnOrBiP-AKbKwTC1YbkndkioEJUu5YCJbFEYRJjFHwJOl-hamYsQUqqg4XHXyVfHbAz81_qgH2WChcgS5anyxb5qW4LGR0dLvbTKyveRbCmupS8ZVmgirGV3LAbZfGot1_r3EGdfT7Dy3AK1IydZoU6RMwrwmSwLUK8/LinkedIn_banner.png?psid=1&width=500&height=250" class="img-banner"  align="center" width="550" height="200" >
+<img id="mdt_13" src="https://bl6pap003files.storage.live.com/y4pP11jNe8iEnOrBiP-AKbKwTC1YbkndkioEJUu5YCJbFEYRJjFHwJOl-hamYsQUqqg4XHXyVfHbAz81_qgH2WChcgS5anyxb5qW4LGR0dLvbTKyveRbCmupS8ZVmgirGV3LAbZfGot1_r3EGdfT7Dy3AK1IydZoU6RMwrwmSwLUK8/LinkedIn_banner.png?psid=1&width=500&height=250" class="img-banner"  align="center" width="530" height="200" >
 
-</span>
+</p>
 
 ***
 <table style="width: 100%" cellspacing="0" cellpadding="0">
