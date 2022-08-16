@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World, I'm Christian Urcuqui 💻~(^_^~) </h1>
 <p align="center">
 
-<img id="mdt_13" src="https://bl6pap003files.storage.live.com/y4mvHTN8xj1Vbz0mlFVWGKJ3-VTW9unEINOOz3ADLWw7aeEZQcmuGCt-XgErbRS4pkU51QHmHoddXHHudugfBwhBK467Q7wp5lSxDkLW428ClVY2vf8_y4YQ00cy8J5gTWmqznj8yaHin1sfn2Up7NYzHfKD6LV7t5QGYncQNMIxBb5IgXq-JX3f4WF-q9C_fRU?encodeFailures=1&width=1584&height=396" class="img-banner"  align="center" width="530" height="200" >
+<img id="mdt_13" src="https://github.com/urcuqui/urcuqui/blob/main/LinkedIn_banner.png?raw=true" class="img-banner"  align="center" width="530" height="200" >
 
 </p>
 
