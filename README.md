@@ -1,25 +1,35 @@
 <h1 align="center"> Hello World, I'm Christian Urcuqui 💻~(^_^~) </h1>
-<p align="center">
 
-<img id="mdt_13" src="https://github.com/urcuqui/urcuqui/blob/main/LinkedIn_banner.png?raw=true" class="img-banner"  align="center" width="530" height="200" >
+<div id="contentBox" style="margin:0px auto; width:100%">
+ 
+<div id="column3" style="float:left; margin:0;width:67%">
+ <img id="mdt_13" src="https://github.com/urcuqui/urcuqui/blob/main/LinkedIn_banner.png?raw=true">
+</div>
 
-</p>
+<div id="column2" style="float:left; margin:0;width:33%;">
+   <br>
+  <p>
+     <b>Cybersecurity data scientist </b> with more than 9 years in the software industry, with several successful projects developed for public and private institutions. I am interested in threat detection, adversarial techniques, responsible AI, and ethical hacking. I am the author of the books "Cybersecurity: An Approach Based on Data Science" and "Cybersecurity: Data Holds the Answer" published by Editorial ICESI in 2018 and 2022 (coming soon), respectively, and multiple works in security, data science, and e-health.
+ </p>
+</div>
+</div>
 
 ***
-<table style="width: 100%" cellspacing="0" cellpadding="0">
-   <colgroup>
-       <col style="width: 50%;">
-       <col style="width: 50%;">
-   </colgroup>  
-   <tr>
-         <td>
-  Cybersecurity data scientist with more than 9 years in the software industry, with several successful projects developed for public and private institutions. My passion is to create solutions to make cyberspace safer using data science; I am interested in threat detection, adversarial techniques, secure learning, responsible AI, and ethical hacking. I am the author of the books "Cybersecurity: An Approach Based on Data Science" and "Cybersecurity: Data Holds the Answer" published by Editorial ICESI in 2018 and 2022 (coming soon), respectively, and multiple works in security, data science, and e-health.
-         </td>
-         <td style="width: 80%;">
-           <img src=https://github.com/urcuqui/urcuqui/blob/main/cat.png?raw=true" width="1000" height="220" style="max-width: 500%;">
-         </td>
-  </tr>  
-</table>
+- 🏢 I'm currently working at **Globant** and **Icesi University**
+- 💬 Ping me about **Data Science**, **Cybersecurity**, **Science**, **Research**, **Project Management**
+- 📝 Checkout my [Resume](https://www.linkedin.com/in/christianurcuqui/).
+
+#### My Current Stack
+
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<br>
 
 ***
 
@@ -40,11 +50,8 @@
 <a href="mailto:ulcamilo.me@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
-<a href="https://scholar.google.es/citations?user=q6dRgYIAAAAJ&hl=us" rel="nofollow"><img align="left" src="https://github.com//terrytangyuan/terrytangyuan/raw/master/imgs/citations.svg" alt="Citations" style="max-width: 100%;"></a>
 </p>
 
-<br>
-<hr>
 
 <!--
 **urcuqui/urcuqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,6 +67,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 ### :zap: Github Stats
 
 
@@ -67,11 +78,6 @@ Here are some ideas to get you started:
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=urcuqui&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="urcuqui" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urcuqui&show_icons=true&theme=react&include_all_commits=true&layout=compact" alt="urcuqui" width="37%">
-</p>
-<p>
-<a href="https://github.com/urcuqui?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/urcuqui?color=green&logo=github">
-  </a>
 </p>
 <br>
 
