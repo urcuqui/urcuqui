@@ -14,12 +14,15 @@
 </div>
 </div>
 
-***
+*** 
+
+### ☣ Bio
+
 - 🏢 I'm currently working at **Globant** and **Icesi University**
 - 💬 Ping me about **Data Science**, **Cybersecurity**, **Science**, **Research**, **Project Management**
 - 📝 Checkout my [Resume](https://www.linkedin.com/in/christianurcuqui/).
 
-#### My Current Stack
+### 🤖 My Current Stack
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -35,7 +38,7 @@
 
 <p align="center">
 
-#### Connect With Me
+### 💬 Connect With Me
 
 <p left="center">
 <a href="https://twitter.com/ulcamilo">
@@ -69,7 +72,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+***
 
 ### :zap: Github Stats
 
