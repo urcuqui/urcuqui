@@ -23,7 +23,7 @@
 - 📝 Checkout my [Resume](https://www.linkedin.com/in/christianurcuqui/).
 - 📚 Review my publications here [[+]](https://scholar.google.es/citations?user=q6dRgYIAAAAJ&hl)
 - ☠️ My stats in TryHackme [[+]](https://tryhackme.com/p/urcuqui)
-- 
+- 📊 Here is my Kaggle [profile](https://www.kaggle.com/xwolf12)
 
 ### 🤖 My Current Stack
 
