@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ***
 
-### :zap: Github Stats
+### :zap: Stats
 
 
 <p>
@@ -82,7 +82,13 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urcuqui&show_icons=true&theme=react&include_all_commits=true&layout=compact" alt="urcuqui" width="37%">
 </p>
-<br>
+
+<p> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/urcuqui.png" alt="TryHackMe">
+
+</p>
+
+***
 
 
 
