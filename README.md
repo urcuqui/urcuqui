@@ -34,21 +34,17 @@
 <img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
 <img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
-<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
-
-<br>
+<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" /><br>
+</br>
 
 - Cybersecurity:
 
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /><br>
+
 
 - Software Engineering:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-
-
-
-
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
