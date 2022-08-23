@@ -75,7 +75,14 @@
 
 ### 💬 Connect With Me
 
-<p left="center">
+<table style="width: 100%" cellspacing="0" cellpadding="0" align="center">
+   <colgroup>
+       <col style="width: 50%;">
+       <col style="width: 50%;">
+   </colgroup>  
+   <tr>
+         <td>
+  <p left="center">
 <a href="https://twitter.com/ulcamilo">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
@@ -89,6 +96,16 @@
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
+         </td>
+         <td style="width: 40%;">
+           <img src=https://github.com/urcuqui/urcuqui/blob/main/cat.png?raw=true" width="100%" height="220" style="max-width: 40%;">
+         </td>
+  </tr>  
+</table>
+
+
+
+
 
 
 <!--
