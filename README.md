@@ -38,6 +38,8 @@
 <img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="Tensor" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png?20170429160244" />
 <img align="left" alt="NetworkX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" />
+<img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
+<img align="left" alt="StatModels" width="26px" src="https://raw.githubusercontent.com/statsmodels/statsmodels/main/docs/source/images/statsmodels-logo-v2-no-text.svg" />
 <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" /><br>
 </br>
 
