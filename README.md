@@ -33,8 +33,10 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
+<img align="left" alt="Sckitlearn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052" />
 <img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="Tensor" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png?20170429160244" />
 <img align="left" alt="NetworkX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" />
 <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" /><br>
 </br>
@@ -42,6 +44,8 @@
 - Cybersecurity:
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+<img align="left" alt="Kali" width="26px" src="https://logodix.com/logo/1287734.jpg"/>
+<img align="left" alt="Wireshark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/100px-Wireshark_icon.svg.png?20070521080724"/>
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /><br>
 <br>
 
