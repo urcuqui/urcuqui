@@ -140,7 +140,6 @@ Here are some ideas to get you started:
 
 <p> 
 <img src="https://tryhackme-badges.s3.amazonaws.com/urcuqui.png" alt="TryHackMe">
-
 </p>
 
 ***
