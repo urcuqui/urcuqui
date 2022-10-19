@@ -9,7 +9,7 @@
 <div id="column2" style="float:left; margin:0;width:33%;">
    <br>
   <p>
-     <b>Cybersecurity data scientist </b> with more than 9 years in the software industry, with several successful projects developed for public and private institutions. I am interested in threat detection, adversarial techniques, responsible AI, and ethical hacking. I am the author of the books <a href="https://www.icesi.edu.co/editorial/ciberseguridad/">"Cybersecurity: An Approach Based on Data Science"</a> and <a href="https://www.icesi.edu.co/editorial/ciberseguridad-datos/">"Cybersecurity: Data Holds the Answer" </a> published by Editorial ICESI in 2018 and 2022 (coming soon), respectively, and multiple works in security, data science, and e-health.
+     <b>Cybersecurity data scientist </b> with more than 9 years in the software industry, with several successful projects developed for public and private institutions. I am interested in threat detection, adversarial techniques, responsible AI, and ethical hacking. I am the author of the books <a href="https://www.icesi.edu.co/editorial/ciberseguridad/">"Cybersecurity: An Approach Based on Data Science"</a> and <a href="https://www.icesi.edu.co/editorial/ciberseguridad-datos/">"Cybersecurity: Data Holds the Answer" </a> published by Editorial ICESI in 2018 and 2022, respectively, and multiple works in security, data science, and e-health.
  </p>
 </div>
 </div>
