@@ -19,7 +19,7 @@
 ### ☣ Bio
 
 - 🏢 I'm currently working at **Globant** and **Icesi University**
-- 💬 Ping me about **Data Science**, **Cybersecurity**, **Research**, and **Project Management**
+- 💬 Ping me about **Data Science**, **Cybersecurity**, **Research**, **E-health**, and **Project Management**
 - 📝 Checkout my [Resume](https://www.linkedin.com/in/christianurcuqui/).
 - 📚 Review my publications here [[+]](https://scholar.google.es/citations?user=q6dRgYIAAAAJ&hl)
 - ☠️ My stats in TryHackme [[+]](https://tryhackme.com/p/urcuqui)
@@ -131,10 +131,10 @@ Here are some ideas to get you started:
 
 ### :zap: Stats
 
-
+<!--
 <p>
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=urcuqui&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="urcuqui" width="40%">
-
+-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urcuqui&show_icons=true&theme=react&include_all_commits=true&layout=compact" alt="urcuqui" width="37%">
 </p>
 
