@@ -78,30 +78,36 @@
 
 ### 💬 Connect With Me
 
-<table style="width: 100%" cellspacing="0" cellpadding="0" align="center">
+<table style="width: 100%" cellspacing="0" cellpadding="0">
    <colgroup>
-       <col style="width: 50%;">
-       <col style="width: 50%;">
+       <col style="width: 30%;">
+       <col style="width: 70%;">
    </colgroup>  
    <tr>
          <td>
-  <p left="center">
-<a href="https://twitter.com/ulcamilo">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/christianurcuqui/?locale=en_US">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://urcuqui.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="mailto:ulcamilo.me@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-</p>
+            <ul>
+             <li><a href="https://twitter.com/ulcamilo">
+                <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+              </a> 
+             </li>
+             <li><a href="https://www.linkedin.com/in/christianurcuqui/?locale=en_US">
+                <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+              </a>  
+             </li>
+             <li>
+              <a href="https://urcuqui.medium.com/">
+               <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+              </a>
+             </li>
+             <li>
+              <a href="mailto:ulcamilo@gmail.com">
+               <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+              </a>
+             </li>
+           </ul>             
          </td>
          <td style="width: 40%;">
-           <img src=https://github.com/urcuqui/urcuqui/blob/main/cat.png?raw=true" width="100%" height="220" style="max-width: 40%;">
+           <img src="https://github.com/urcuqui/urcuqui/blob/main/cat.png?raw=true" width="100%" height="220" style="max-width: 40%;">
          </td>
   </tr>  
 </table>
