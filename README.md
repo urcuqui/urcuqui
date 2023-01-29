@@ -131,16 +131,26 @@ Here are some ideas to get you started:
 
 ### :zap: Stats
 
-<!--
-<p>
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=urcuqui&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="urcuqui" width="40%">
--->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=urcuqui&show_icons=true&theme=react&include_all_commits=true&layout=compact" alt="urcuqui" width="37%">
-</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=urcuqui&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p> <br>
+<table> 
+<tr>
+<td>
+<img src="https://github-readme-stats-i66v.vercel.app/api?username=urcuqui&show_icons=true&hide_border=true&border_radius=0&count_private=true&include_all_commits=true&theme=react" height="150" alt="stats graph"  />
 
-<p> 
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=urcuqui&show_icons=true&theme=react&include_all_commits=true&layout=compact" alt="urcuqui">
+</td>
+<td>
+
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/urcuqui.png" alt="TryHackMe">
-</p>
+</td>
+</tr>
+
+</table>
 
 ***
 
