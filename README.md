@@ -14,6 +14,8 @@
 </div>
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=urcuqui&color=blue)
+
 *** 
 
 ### ☣ Bio
@@ -24,6 +26,7 @@
 - 📚 Review my publications here [[+]](https://scholar.google.es/citations?user=q6dRgYIAAAAJ&hl)
 - ☠️ My stats in TryHackme [[+]](https://tryhackme.com/p/urcuqui)
 - 📊 Here is my Kaggle [profile](https://www.kaggle.com/xwolf12)
+- 📫 How to reach me: [ulcamilo@gmail.com](mailto:ulcamilo@gmail.com)
 
 ### 🤖 My Current Stack
 
