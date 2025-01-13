@@ -14,8 +14,6 @@
 </div>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=urcuqui&color=blue)
-
 *** 
 
 ### ☣ Bio
