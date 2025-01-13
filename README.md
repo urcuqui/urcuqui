@@ -153,7 +153,7 @@ Here are some ideas to get you started:
 <td>
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/urcuqui.png" alt="TryHackMe">
+![Build Status](https://tryhackme-badges.s3.amazonaws.com/urcuqui.png)
 </td>
 </tr>
 
