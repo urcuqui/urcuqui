@@ -3,7 +3,7 @@
 <div id="contentBox" style="margin:0px auto; width:100%">
  
 <div id="column3" style="float:left; margin:0;width:67%">
- <img id="mdt_13" src="https://github.com/urcuqui/urcuqui/blob/main/LinkedIn_banner.png?raw=true">
+ <img id="mdt_13" src="https://github.com/urcuqui/urcuqui/blob/main/375959062_10160279707114843_7782231769167853350_n.png?raw=true">
 </div>
 
 <div id="column2" style="float:left; margin:0;width:33%;">
