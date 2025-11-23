@@ -1,64 +1,69 @@
-<h1 align="center"> Hello World, I'm Christian Urcuqui 💻~(^_^~) </h1>
+<h1 align="center">👋 Hello World, I'm Christian Urcuqui</h1>
+<h3 align="center">AI Security Researcher • Cybersecurity Data Scientist • Speaker & Author</h3>
+
 <p align="center">
-<div id="contentBox" style="margin:0px auto; width:100%">
+  <img src="https://github.com/urcuqui/urcuqui/blob/main/375959062_10160279707114843_7782231769167853350_n.png?raw=true" width="65%">
 </p>
-<div id="column3" style="float:left; margin:0;width:67%">
- <img id="mdt_13" src="https://github.com/urcuqui/urcuqui/blob/main/375959062_10160279707114843_7782231769167853350_n.png?raw=true">
-</div>
+
 <p align="center">
-  <b>Cybersecurity Data Scientist | Developer | Researcher</b><br>
-  <em>Transforming data into secure, actionable insights for over 11 years.</em>
+  <b>AI Red Teaming • Adversarial ML • Secure AI Systems • Threat Detection • Multi-Agent MCP Architectures</b>
 </p>
-<div id="column2" style="float:left; margin:0;width:33%;">
-   <br>
-  <p>
-     <b>Cybersecurity data scientist </b> with more than 11 years in the software industry, with several successful projects developed for public and private institutions. I am interested in threat detection, adversarial techniques, responsible AI, and ethical hacking. I am the author of the books <a href="https://www.icesi.edu.co/editorial/ciberseguridad/">"Cybersecurity: An Approach Based on Data Science"</a>, <a href="https://www.icesi.edu.co/editorial/ciberseguridad-datos/">"Cybersecurity: Data Holds the Answer" </a>, and  <a href="https://www.icesi.edu.co/editorial/ciberseguridad-datos-caos/"> "Cybersecurity: Data, the Seeds of Chaos" </a> published by Editorial ICESI, and multiple works in security, healthcare, and data science.
- </p>
-</div>
-</div>
 
 ---
 
+## ⚡ Fast Facts
+
+- 🏆 **Best Talk – AI Resilience Hub, Ekoparty 2025**  
+- 🎤 Speaker at **DEF CON, Ekoparty, DragonJARCON, PyCon, BSides**  
+- 📚 Author of **three cybersecurity & AI books**, published by Editorial ICESI  
+- 🧪 Researcher in **adversarial machine learning, AI robustness & red teaming**  
+- 🛠️ Developer of multi-agent architectures using **MCP, LangGraph & secure toolchains**  
+- 👨‍🏫 Lecturer at **Icesi University**, teaching AI & cybersecurity  
+- 🌐 11+ years delivering end-to-end AI, security & data systems for public and private institutions  
+
+---
 
 ## 🚀 About Me
 
-- 🏢 **Current Roles:** Data Scientist at <b>Alethea</b> and Lecturer at <b>Icesi University</b>
-- 🔬 **Main Interests:** Data Science, Cybersecurity, Research, E-Health, Project Management
-- 📄 [My Resume](https://www.linkedin.com/in/christianurcuqui/)
-- 📝 [Google Scholar Publications](https://scholar.google.es/citations?user=q6dRgYIAAAAJ&hl)
-- ☠️ [TryHackMe Stats](https://tryhackme.com/p/urcuqui)
-- 📊 [Kaggle Profile](https://www.kaggle.com/xwolf12)
-- 📫 Contact me: [ulcamilo@gmail.com](mailto:ulcamilo@gmail.com)
+I am an AI security–focused data scientist and researcher with over 11 years of experience building secure, data-driven systems.  
+My work combines **cybersecurity, adversarial machine learning, secure AI deployment, narrative/actor investigation, and multi-agent architectures**.
+
+I’ve authored three books on cybersecurity and delivered talks in the biggest security and AI conferences in Latin America and beyond—Ekoparty, DEF CON, DragonJARCON, BSides, PyCon, and more.
+
+At **Alethea**, I develop **MCP-driven AI agent systems** for detecting and analyzing online narratives, actors, and influence operations at scale.
 
 ---
 
-## 🏆 Highlights
+## 🔐 AI Security Focus Areas
 
-- Developed and deployed data security solutions for both public and private sectors
-- Published papers in cybersecurity and data science (see [publications](https://scholar.google.es/citations?user=q6dRgYIAAAAJ&hl))
-- Speaker at national and international conferences
+- Adversarial Machine Learning (image & text attacks)  
+- AI Red Teaming & LLM robustness evaluation  
+- Model Control Protocol (MCP) development  
+- Multi-agent orchestration using LangGraph  
+- Threat detection & behavior-based analysis  
+- Secure model pipelines (LLM toolchains, PG/Snowflake endpoints)  
+- Responsible AI & safe deployment at scale  
 
 ---
+
 ## 🧰 Tech Stack
 
-**Data Science & ML:**  
+**Machine Learning & Data Science**  
 ![Python](https://img.shields.io/badge/-Python-333?logo=python) 
-![R](https://img.shields.io/badge/-R-276DC3?logo=r)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark)
 
-**Cybersecurity:**  
+**Cybersecurity Tools**  
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash)
 
-**Software Engineering:**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java)
+**Software Engineering & Cloud**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
@@ -66,35 +71,62 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000?logo=pycharm)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
+
+---
+
+## 📚 Books
+
+- **Cybersecurity: An Approach Based on Data Science**  
+- **Cybersecurity: Data Holds the Answer**  
+- **Cybersecurity: Data, the Seeds of Chaos**
+
+All published by Editorial ICESI.
 
 ---
 
 ## ⭐ Featured Projects
 
-- [WhiteHat](#) – A collection of AI-powered tools for phishing detection, adversarial machine learning, and cybersecurity research. Includes Streamlit/Flask apps, attack simulations, LoRA fine-tuning, and secure model evaluation for red teaming and defense.
-- [Data-Science](#) – A comprehensive collection of Data Science and Artificial Intelligence projects, including hands-on examples, course materials, and solutions to real-world challenges. Explore topics such as machine learning, deep learning, data visualization, and more—perfect for students, educators, and enthusiasts looking to deepen their practical skills in data.
+### 🔥 GhostfaceFuzzer  
+Adversarial fuzzing toolkit for LLMs and image classifiers.  
+Includes jailbreak generation, perturbation pipelines, evaluation metrics, and red-teaming workflows.
+
+### 🛡️ SpamShieldAI  
+AI-powered phishing detection system with Streamlit UI, RLHF feedback loop, and model retraining workflow.
+
+### 🧩 MCP Server / Agent Client  
+Multi-agent orchestration system using MCP, LangGraph, and secure toolchains.
+
+### 🤖 ORION Chatbot  
+Matrix-themed AI assistant for cybersecurity training, threat analysis workflows & interactive learning.
+
+---
+
+## 🏆 Highlights
+
+- Delivered data security solutions across government, education, and enterprise  
+- Published scientific papers in cybersecurity, healthcare & machine learning  
+- Speaker & trainer in over 40 workshops and conferences worldwide  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urcuqui&show_icons=true&theme=react" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urcuqui&show_icons=true&theme=react&layout=compact" height="150" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=urcuqui&show_icons=true&theme=react" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urcuqui&layout=compact&theme=react" height="150">
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/ulcamilo)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianurcuqui/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianurcuqui/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white)](https://twitter.com/ulcamilo)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.es/citations?user=q6dRgYIAAAAJ&hl)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?logo=tryhackme&logoColor=red)](https://tryhackme.com/p/urcuqui)
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://urcuqui.medium.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ulcamilo@gmail.com)
 
