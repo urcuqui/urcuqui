@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 🏢 **Current Roles:** Data Scientist at <b>Globant</b> and Lecturer at <b>Icesi University</b>
+- 🏢 **Current Roles:** Data Scientist at <b>Alethea</b> and Lecturer at <b>Icesi University</b>
 - 🔬 **Main Interests:** Data Science, Cybersecurity, Research, E-Health, Project Management
 - 📄 [My Resume](https://www.linkedin.com/in/christianurcuqui/)
 - 📝 [Google Scholar Publications](https://scholar.google.es/citations?user=q6dRgYIAAAAJ&hl)
