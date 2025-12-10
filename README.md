@@ -22,14 +22,33 @@
 - 🌐 11+ years delivering end-to-end AI, security & data systems for public and private institutions  
 
 
-## 🏅 Awards & Distinctions
+## 🏅 Awards & Achievements
 
-- Best Talk – AI Resilience Hub, Ekoparty 2025 (Alethea)
-- Honorific Mention – NASA Space Apps Challenge 2021 (ML + Air Quality Analysis)
-- Best Paper Award Nominee – BESC 2020
-- Best Master Thesis Presentation – SCo2 2016
-- MIT Global Startup Labs – Academic Grant 2013
-- Microsoft Imagine Cup – Second Round 2012
+<p align="center">
+
+  <!-- Ekoparty -->
+  <img src="https://img.shields.io/badge/🏆%20Best%20Talk-Ekoparty%20AI%20Resilience%20Hub%202025-8A2BE2?style=for-the-badge" />
+
+  <!-- Dragonjar -->
+  <img src="https://img.shields.io/badge/🔰%20Call%20for%20Cybersecurity%20Researches-DragonJAR%20%26%20Andro%202023-B22222?style=for-the-badge" />
+
+  <!-- NASA -->
+  <img src="https://img.shields.io/badge/🌌%20Honorific%20Mention-NASA%20Space%20Apps%20Challenge%202021-1E90FF?style=for-the-badge" />
+
+  <!-- Best Paper Nominee -->
+  <img src="https://img.shields.io/badge/📝%20Best%20Paper%20Nominee-BESC%202020-20B2AA?style=for-the-badge" />
+
+  <!-- Master Thesis Presentation -->
+  <img src="https://img.shields.io/badge/🎓%20Best%20Presentation-Master%20Thesis%202016-FF8C00?style=for-the-badge" />
+
+  <!-- MIT Grant -->
+  <img src="https://img.shields.io/badge/🎖️%20Academic%20Grant-MIT%20Global%20Startup%20Labs%202013-DAA520?style=for-the-badge" />
+
+  <!-- Microsoft Imagine Cup -->
+  <img src="https://img.shields.io/badge/💡%202nd%20Round-Microsoft%20Imagine%20Cup%202012-0078D4?style=for-the-badge" />
+ 
+
+</p>
 
 ---
 
