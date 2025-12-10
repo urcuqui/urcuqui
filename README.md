@@ -21,6 +21,16 @@
 - 👨‍🏫 Lecturer at **Icesi University**, teaching AI & cybersecurity  
 - 🌐 11+ years delivering end-to-end AI, security & data systems for public and private institutions  
 
+
+## 🏅 Awards & Distinctions
+
+- Best Talk – AI Resilience Hub, Ekoparty 2025 (Alethea)
+- Honorific Mention – NASA Space Apps Challenge 2021 (ML + Air Quality Analysis)
+- Best Paper Award Nominee – BESC 2020
+- Best Master Thesis Presentation – SCo2 2016
+- MIT Global Startup Labs – Academic Grant 2013
+- Microsoft Imagine Cup – Second Round 2012
+
 ---
 
 ## 🚀 About Me
